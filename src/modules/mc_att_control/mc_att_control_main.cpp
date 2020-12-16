@@ -40,7 +40,7 @@
  * @author Sander Smeets	<sander@droneslab.com>
  * @author Matthias Grob	<maetugr@gmail.com>
  * @author Beat Küng		<beat-kueng@gmx.net>
- *
+ * 	   Liuz Zhenchang	<liuzhenchang@mail.tsinghua.edu.cn>
  */
 
 #include "mc_att_control.hpp"
